@@ -1,8 +1,0 @@
-git init - inicia o git(repositorio) no seu projeto
-git status - verificar alterações de pastas e arquivos no projeto
-git add . - adiciona ao ''stage area'' todos os arquivos e pastas modificados(após o ponto)
-git commit -m ''message here'' - cria e descreve um ponto na história
-git log - histórico de commits do projeto 
-
-ssssss
-ssss
